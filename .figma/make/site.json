@@ -1,0 +1,11 @@
+{
+  "title": "FT Karnaa",
+  "description": "Streamline your reel booking experience with a user-friendly platform that allows quick login via phone number and OTP for easy access to services.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
